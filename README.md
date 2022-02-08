@@ -1,4 +1,4 @@
-# mr-compatible
+# MR Compatible
 MRI Wrist Loading Device
 
 
