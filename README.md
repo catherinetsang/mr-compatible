@@ -1,9 +1,11 @@
 # mr-compatible
 MRI Wrist Loading Device
 
-[(https://youtu.be/ojJ5YXjC_mw)
+
+https://user-images.githubusercontent.com/28896410/152925837-108db735-9c8d-4afd-9683-aea1224f9813.mp4  
 
 ## Deliverables
+[Symposium Presentation Recording](https://youtu.be/ojJ5YXjC_mw)  
 [Presentation Slide Deck](presentation-slide-deck.pdf)  
 [Final Report](final-report.pdf)
 
